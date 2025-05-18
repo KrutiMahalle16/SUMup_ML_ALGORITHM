@@ -44,6 +44,15 @@ feature independence assumptions.
 optimize for the target variable.
 Model Accuracy Score
 
+Model Accuracy Score:
+
+Logistic Regression ~72%
+Naive Bayes ~8%
+k-Nearest Neighbours (k-NN) ~92%
+Decision Tree ~93%
+Random Forest ~95%
+
+
 Conclusion: Random Forest offers the best predictive accuracy for classifying forest cover type,
 benefiting from its ensemble approach. Decision Trees provide interpretability, while other classifiers
 such as Logistic Regression, Naive Bayes, and k-NN yield competitive results. Clustering methods
